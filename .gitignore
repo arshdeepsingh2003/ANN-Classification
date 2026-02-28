@@ -18,19 +18,7 @@ ENV/
 # ===============================
 .ipynb_checkpoints/
 
-# ===============================
-# Model Files (ANN / ML)
-# ===============================
-*.h5
-*.hdf5
-*.keras
-*.pt
-*.pth
-*.joblib
-*.pkl
-*.sav
-models/
-checkpoints/
+
 
 # ===============================
 # Dataset Files
